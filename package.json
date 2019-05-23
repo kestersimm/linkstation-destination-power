@@ -1,0 +1,16 @@
+{
+  "name": "link-station",
+  "version": "1.0.0",
+  "description": "linkstation power",
+  "main": "index.js",
+  "author": "kester.simm@icloud.com",
+  "license": "MIT",
+  "scripts": {
+    "process":"node index"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "lodash": "^4.17.11",
+    "mathjs": "^5.10.3"
+  }
+}
